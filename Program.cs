@@ -6,7 +6,7 @@ namespace CAULENHDIEUKIEN
     {
         static void Main(string[] args)
         {
-            int nam = 0;
+            int nam;
             bool namnhuan = false;
 
             Console.WriteLine("Nhap nam can xet:");
